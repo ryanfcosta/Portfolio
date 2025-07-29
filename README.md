@@ -1,6 +1,5 @@
 # 🎮 Portfólio Ryan Costa
 
-Portfólio pessoal com tema de jogo RPG, desenvolvido com HTML5, CSS3 e JavaScript vanilla.
 
 ## 🛠️ Tecnologias
 
